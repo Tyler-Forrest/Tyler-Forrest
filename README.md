@@ -1,4 +1,4 @@
-#  Hey! Nice to see you.
+#  🫡 Hey! Nice to see you.
 
 ### Welcome to my page!
 I'm Tyler, a IT professional from the USA, currently living in Atlanta, GA!
