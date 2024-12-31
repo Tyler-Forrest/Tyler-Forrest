@@ -1,5 +1,5 @@
 # Hello, I'm Tyler Forrest! 🙂
-<a href="<https://www.linkedin.com/in/tyler-forrest-9a1a07141"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tyler-forrest-9a1a07141"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a dedicated and detail-oriented cybersecurity enthusiast with a solid foundation and experience in Information Security and a recent academic background in the Google Cybersecurity Course. Eager to apply theoretical knowledge gained through coursework and hands-on projects to a dynamic cybersecurity analyst role. Possess foundational skills in threat detection, incident response, and vulnerability management. A quick learner with a strong commitment to staying abreast of the latest cybersecurity trends and technologies. Seeking an entry-level position to contribute to enhancing the security posture of an organization while gaining practical experience in the field.
@@ -37,10 +37,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/c755e149-5d40-4693-b735-0c4bce0c8efb/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/specialization/9Q3N4NVW4T75?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
